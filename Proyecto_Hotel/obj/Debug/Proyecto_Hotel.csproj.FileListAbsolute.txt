@@ -1,0 +1,19 @@
+C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\bin\Debug\Proyecto_Hotel.exe.config
+C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\bin\Debug\Proyecto_Hotel.exe
+C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\bin\Debug\Proyecto_Hotel.pdb
+C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\bin\Debug\mysql.data.dll
+C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.ConsultarHabitaciones.resources
+C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.ImprimirFactura.resources
+C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.Gestion_de_Huespedes.resources
+C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.Login.resources
+C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.MenuPrincipal.resources
+C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.Properties.Resources.resources
+C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.RegistrodeHabitaciones.resources
+C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.SalidadeHuespedes.resources
+C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.csproj.GenerateResource.Cache
+C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.exe
+C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.pdb
+C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.csprojResolveAssemblyReference.cache
+C:\Users\Perla Castañeda\Documents\GitHub\Proyecto_Hotel\Proyecto_Hotel\bin\Debug\Proyecto_Hotel.exe.config
+C:\Users\Perla Castañeda\Documents\GitHub\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.exe
+C:\Users\Perla Castañeda\Documents\GitHub\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.pdb
