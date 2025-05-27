@@ -12,6 +12,10 @@ namespace Proyecto_Hotel
 {
     public partial class Login : Form
     {
+        MenuPrincipal mMenuPrincipal = new MenuPrincipal();
+        MenuPrincipal2 mMenuPrincipal2 = new MenuPrincipal2();
+
+        public string Palabra;
         public Login()
         {
             InitializeComponent();
@@ -36,18 +40,21 @@ namespace Proyecto_Hotel
         {
             string usuario = TxtUsuario.Text;
             string clave = TxtContraseña.Text;
-
+            Palabra = usuario;
+            mMenuPrincipal.Palabra2 = Palabra;
             if (usuario == "admin" && clave == "1234")
             {
                 MessageBox.Show("Acceso correcto como Administrador.");
-                new MenuPrincipal().Show();
-                this.Hide();
+                mMenuPrincipal.Show();
+               this.Hide();
+                
             }
             else if (usuario == "recep" && clave == "5678")
             {
                 MessageBox.Show("Acceso correcto como Recepcionista.");
-                new MenuPrincipal().Show(); 
+                mMenuPrincipal2.Show(); 
                 this.Hide();
+ 
             }
             else
             {

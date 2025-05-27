@@ -83,7 +83,7 @@
             this.BtnRegistroHabitaciones.Name = "BtnRegistroHabitaciones";
             this.BtnRegistroHabitaciones.Size = new System.Drawing.Size(156, 52);
             this.BtnRegistroHabitaciones.TabIndex = 3;
-            this.BtnRegistroHabitaciones.Text = "Resgistro de Habitaciones";
+            this.BtnRegistroHabitaciones.Text = "Registro de Habitaciones";
             this.BtnRegistroHabitaciones.UseVisualStyleBackColor = false;
             this.BtnRegistroHabitaciones.Click += new System.EventHandler(this.BtnRegistroHabitaciones_Click);
             // 

@@ -14,6 +14,4 @@ C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\P
 C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.exe
 C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.pdb
 C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.csprojResolveAssemblyReference.cache
-C:\Users\Perla Castañeda\Documents\GitHub\Proyecto_Hotel\Proyecto_Hotel\bin\Debug\Proyecto_Hotel.exe.config
-C:\Users\Perla Castañeda\Documents\GitHub\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.exe
-C:\Users\Perla Castañeda\Documents\GitHub\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.pdb
+C:\Users\Perla Castañeda\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.MenuPrincipal2.resources

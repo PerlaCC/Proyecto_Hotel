@@ -162,7 +162,7 @@ namespace Proyecto_Hotel
                 using (MySqlConnection conn = new MySqlConnection(cadena))
                 {
                     conn.Open();
-                    string consulta = "UPDATE cliente SET Nombre = @Nombre, Apellidos = @Apellidos, Identificacion = @Identificacion, RFC = @RFC,  WHERE Id_Cliente = @Id_Cliente";
+                    string consulta = "UPDATE cliente SET Nombre = @Nombre, Apellidos = @Apellidos, Identificacion = @Identificacion, RFC = @RFC  WHERE Id_Cliente = @Id_Cliente";
                     using (MySqlCommand comando = new MySqlCommand(consulta, conn)){
 
                 comando.Parameters.AddWithValue("@Nombre", nombreNuevo);

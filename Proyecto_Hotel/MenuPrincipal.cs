@@ -12,9 +12,21 @@ namespace Proyecto_Hotel
 {
     public partial class MenuPrincipal : Form
     {
+       //Login mLogin = new Login();
+        public string Palabra2;
         public MenuPrincipal()
         {
             InitializeComponent();
+
+            if (Palabra2 == "recep")
+            {
+                BtnHuespedes.Enabled = false;
+            }
+
+            if (Palabra2 == "admin")
+            {
+                BtnHuespedes.Enabled = true;
+            }
         }
 
         private void LblHotel_ELSol_Click(object sender, EventArgs e)
